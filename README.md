@@ -5,5 +5,3 @@
   ### r, annual rate of interest
 ## Output
   ### simple interest = p*t*r
-<footer>2023 XYZ, Inc.</footer>
-
